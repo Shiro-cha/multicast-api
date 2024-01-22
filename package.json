@@ -1,0 +1,20 @@
+{
+  "name": "multicast-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.5",
+    "dgram": "^1.0.1",
+    "reflect-metadata": "^0.2.1",
+    "ts-node": "^10.9.2",
+    "typedi": "^0.10.0",
+    "typescript": "^5.3.3"
+  }
+}
